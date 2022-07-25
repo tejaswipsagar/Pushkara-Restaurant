@@ -1,0 +1,116 @@
+/* All Responsive are taken by this code */
+
+@media (max-width: 1331px){
+    .navbar{
+        padding-left: 0px;
+        padding-right: 0px;
+        margin: 0;
+    }
+
+    .nav-item{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    
+    
+
+}
+
+
+@media (max-width: 1320px) {
+
+    #second-section{
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 60px;
+    }
+
+}
+
+
+@media (max-width: 991px) {
+
+    .padding-point{
+        padding-bottom: 70px;
+        background-color: #FF0063;
+    }
+
+
+
+}
+
+@media (min-width: 1515px) {
+
+    .text-card{
+        height: 370.13px;
+    }
+    .chair-image{
+        height: 370.13px;
+    }
+
+}
+
+@media (max-width: 1500px) {
+    #footer-section{
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+
+
+
+
+
+}
+
+@media (max-width: 767px) {
+    .footer-card2{
+            margin: 0 auto; /* Added */
+            float: none; /* Added */
+            margin-bottom: 30px; /* Added */
+    
+    }
+
+
+
+}
+
+@media (max-width: 1462px) {
+    #footer-section2{
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+
+}
+
+@media (max-width: 767px) {
+    .footer-card4{
+        text-align:unset;
+    }
+}
+
+
+@media (max-width: 1390px) {
+    #third-section{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .adjustments{
+            position: static;
+            padding-top: 30px;
+    }
+
+}
+
+@media (max-width: 400px) {
+    .text-card{
+        height: 400px;
+    }
+    .roomstays{
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+
